@@ -37,7 +37,7 @@ Determines if a given year is a leap year based on standard conditions.
 
 
 9. Check Prime Number
-Checks if a given number is prime by testing divisibility.
+Checks if a given number is prime by testing divisibilit.
 
 
 
